@@ -8,6 +8,7 @@ callback();
 
 function done(){
     console.log("Double Array Created Successfully");
+    console.log("😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀");
 }
 
 doubleArray([1,2,3,4,5,6],done);
